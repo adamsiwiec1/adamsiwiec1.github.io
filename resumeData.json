@@ -1,0 +1,124 @@
+{
+  "main": {
+    "name":"Adam Siwiec",
+    "description":"I am a Principal Consultant at Infinitive with a strong passion for technology.",
+    "image":"profilepic.jpg",
+    "bio":"Adam is a technology consultant passionate about technology. He is currently working as a Principal Consultant at Infinitive within the Data Science competency group. He has a strong interest in cloud computing, web development, and data analytics. Adam plans to pursue his Master’s in Computer Science in the Fall of 2022.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "adam@siwiectech.com",
+    "phone": "571-291-1193",
+    "github":"https://github.com/adamsiwiec1",
+    "linkedin":"https://www.linkedin.com/in/adam-siwiec-177b00150/",
+    "address":{
+      "street":"11026 Legacy Drive",
+      "city":"Sarasota",
+      "state":"Florida",
+      "zip": "34231"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/adamsiwiec1",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some of my top skills.",
+    "education":[
+      {
+        "school":"West Virginia University",
+        "degree":"Management Information Systems",
+        "graduated":"May 2021",
+        "description":"My time at WVU was a life changing experience. I not only aquired a good bit of knowledge regarding the interactions between technology and business, but the most important skill I gained was the ability to self learn. "
+      },
+      {
+        "school":"AWS Cloud Practitioner",
+        "degree":"AWS Cloud Basics",
+        "graduated":"June 2021",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Infinitive",
+        "title":"Principal Consultant",
+        "years":"May 2021 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"CyberSheath",
+        "title":"Intern (System Administration/Cloud Architecture)",
+        "years":"February 2021 - May 2021",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"C#",
+        "level":"70%"
+      },
+      {
+        "name":".NET",
+        "level":"90%"
+      },
+      {
+        "name":"CSS/HTML",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"Powershell",
+        "level":"50%"
+      },
+      {
+        "name":"Bash",
+        "level":"50%"
+      }
+
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      
+      }
+    ]
+  }
+}
